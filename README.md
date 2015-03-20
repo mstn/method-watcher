@@ -1,5 +1,5 @@
 
-experiemental package
+experimental package
 
 DO NOT USE IT
 
